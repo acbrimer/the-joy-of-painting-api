@@ -1,5 +1,5 @@
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, String, Integer, Date, ForeignKey, Table, create_mock_engine
+from sqlalchemy import Column, String, CHAR, Integer, Date, ForeignKey, Table, create_mock_engine
 import os
 
 Base = declarative_base()
@@ -12,8 +12,9 @@ class Episode(Base):
 
     __tablename__ = 'episodes'
 
-    id = Column(Integer, primary_key=True)
-    season = Column(Integer, nullable=True)
+    id = Column(CHAR(6), primary_key=True)
+    season = Column(Integer, nullable=False)
+    episode = Column(Integer, nullable=False)
     title = Column(String(255), nullable=False)
     youtube_url = Column(String, nullable=True)
     air_date = Column(Date, nullable=True)
@@ -27,7 +28,7 @@ class Painting(Base):
 
     id = Column(Integer, primary_key=True)
     # paintings only appear in a single episode
-    episode_id = Column(Integer, ForeignKey('episodes.id'), nullable=True)
+    episode_id = Column(CHAR(6), ForeignKey('episodes.id'), nullable=True)
     image_url = Column(String, nullable=True)
     # no title in source data but including just in case
     title = Column(String(255), nullable=True)
