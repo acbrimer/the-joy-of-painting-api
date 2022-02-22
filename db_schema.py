@@ -1,7 +1,10 @@
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, String, CHAR, Integer, Date, ForeignKey, Table, create_mock_engine
 import os
-from .base import Base
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
+
 
 # Define dimension tables
 
@@ -19,14 +22,14 @@ class Episode(Base):
     painting_index = Column(Integer, nullable=False)
     image_url = Column(String, nullable=True)
     youtube_url = Column(String, nullable=True)
-    air_date = Column(Date, nullable=True)
+    date = Column(Date, nullable=True)
 
 
 class Color(Base):
     """Color - a color used by Bob Ross in a painting """
     __tablename__ = 'colors'
 
-    id = Column(Integer, primary_key=True)
+    id = Column(CHAR(6), primary_key=True)
     name = Column(String(255), nullable=False)
     hex = Column(String(7), nullable=False)
 
@@ -35,8 +38,8 @@ class Subject(Base):
     """Subject - lookup table for episode subjects"""
     __tablename__ = 'subjects'
 
-    id = Column(Integer, primary_key=True)
-    name = Column(String(255), nullable=False)
+    id = Column(String(100), primary_key=True)
+    name = Column(String(100), nullable=False)
 
 
 episode_subjects = Table('episode_subjects', Base.metadata,
