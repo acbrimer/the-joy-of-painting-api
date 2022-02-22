@@ -1,10 +1,6 @@
 from models.db_schema import Episode
 from models import storage
 import pandas as pd
-from pandas import DataFrame
-import os
-from typing import Type, List
-import pandas as pd
 import os
 
 

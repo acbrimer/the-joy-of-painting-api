@@ -1,0 +1,404 @@
+id,season,episode,date,title,painting_index,img_src,painting_title,youtube_src
+S01E01,1,1,1983-01-11,A Walk in the Woods,282,https://www.twoinchbrush.com/images/painting282.png,A Walk in the Woods,https://www.youtube.com/embed/oh5p5f5_-7A
+S01E02,1,2,1983-01-11,Mount McKinley,283,https://www.twoinchbrush.com/images/painting283.png,Mt. McKinley,https://www.youtube.com/embed/RInDWhYceLU
+S01E03,1,3,1983-01-18,Ebony Sunset,284,https://www.twoinchbrush.com/images/painting284.png,Ebony Sunset,https://www.youtube.com/embed/UOziR7PoVco
+S01E04,1,4,1983-01-25,Winter Mist,285,https://www.twoinchbrush.com/images/painting285.png,Winter Mist,https://www.youtube.com/embed/0pwoixRikn4
+S01E05,1,5,1983-02-01,Quiet Stream,286,https://www.twoinchbrush.com/images/painting286.png,Quiet Stream,https://www.youtube.com/embed/DFSIQNjKRfk
+S01E06,1,6,1983-02-08,Winter Moon,287,https://www.twoinchbrush.com/images/painting287.png,Winter Moon,https://www.youtube.com/embed/loAzRUzx1wI
+S01E07,1,7,1983-02-15,Autumn Mountains,288,https://www.twoinchbrush.com/images/painting288.png,Autumn Mountain,https://www.youtube.com/embed/sDdpc8uisD0
+S01E08,1,8,1983-02-22,Peaceful Valley,289,https://www.twoinchbrush.com/images/painting289.png,Peaceful Valley,https://www.youtube.com/embed/kQlFwTOkYzg
+S01E09,1,9,1983-03-01,Seascape,290,https://www.twoinchbrush.com/images/painting290.png,Seascape,https://www.youtube.com/embed/QxcS7p1VHyQ
+S01E10,1,10,1983-03-08,Mountain Lake,291,https://www.twoinchbrush.com/images/painting291.png,Mountain Lake,https://www.youtube.com/embed/wDnLlywAL5I
+S01E11,1,11,1983-03-15,Winter Glow,292,https://www.twoinchbrush.com/images/painting292.png,Winter Glow,https://www.youtube.com/embed/Q03YvknOVe0
+S01E12,1,12,1983-03-22,Snowfall,293,https://www.twoinchbrush.com/images/painting293.png,Snow Fall,https://www.youtube.com/embed/4E35-8x_y04
+S01E13,1,13,1983-03-29,Final Reflections,294,https://www.twoinchbrush.com/images/painting294.png,Final Reflections,https://www.youtube.com/embed/IEQWfszfRlA
+S02E01,2,1,1983-08-31,Meadow Lake,269,https://www.twoinchbrush.com/images/painting269.png,Meadow Lake,https://www.youtube.com/embed/GARWowi0QXI
+S02E02,2,2,1983-09-07,Winter Sun,270,https://www.twoinchbrush.com/images/painting270.png,Winter Sun,https://www.youtube.com/embed/VPfYRj4DDco
+S02E03,2,3,1983-09-14,Ebony Sea,271,https://www.twoinchbrush.com/images/painting271.png,Ebony Sea,https://www.youtube.com/embed/aOJsKNzO3i8
+S02E04,2,4,1983-09-21,Shades of Gray,272,https://www.twoinchbrush.com/images/painting272.png,Shades of Grey,https://www.youtube.com/embed/I-ousb8-SD0
+S02E05,2,5,1983-09-28,Autumn Splendor,273,https://www.twoinchbrush.com/images/painting273.png,Autumn Splendor,https://www.youtube.com/embed/rTTWw5Gd79I
+S02E06,2,6,1983-10-05,Black River,274,https://www.twoinchbrush.com/images/painting274.png,Black River,https://www.youtube.com/embed/6O4sfJd8G_M
+S02E07,2,7,1983-10-12,Brown Mountain,275,https://www.twoinchbrush.com/images/painting275.png,Brown Mountain,https://www.youtube.com/embed/Vx6v47gHBWM
+S02E08,2,8,1983-10-19,Reflections,276,https://www.twoinchbrush.com/images/painting276.png,Reflections,https://www.youtube.com/embed/0FYfo94qefg
+S02E09,2,9,1983-10-26,Black & White Seascape,277,https://www.twoinchbrush.com/images/painting277.png,Black and White Seascape,https://www.youtube.com/embed/PMDyPrE0puo
+S02E10,2,10,1983-11-02,Lazy River,278,https://www.twoinchbrush.com/images/painting278.png,Lazy River,https://www.youtube.com/embed/BW2wKKFvH1g
+S02E11,2,11,1983-11-09,Black Waterfall,279,https://www.twoinchbrush.com/images/painting279.png,Black Waterfall,https://www.youtube.com/embed/GzSqjyQUPZQ
+S02E12,2,12,1983-11-16,Mountain Waterfall,280,https://www.twoinchbrush.com/images/painting280.png,Mountain Waterfall,https://www.youtube.com/embed/9jIt95PCFAA
+S02E13,2,13,1983-11-23,Final Grace,281,https://www.twoinchbrush.com/images/painting281.png,Final Grace,https://www.youtube.com/embed/miJ19Kz_i3Y
+S03E01,3,1,1984-01-04,Mountain Retreat,256,https://www.twoinchbrush.com/images/painting256.png,Mountain Retreat,https://www.youtube.com/embed/hoimk4s8JoQ
+S03E02,3,2,1984-01-11,Blue Moon,257,https://www.twoinchbrush.com/images/painting257.png,Blue Moon,https://www.youtube.com/embed/loit61vLUMc
+S03E03,3,3,1984-01-18,Bubbling Stream,258,https://www.twoinchbrush.com/images/painting258.png,Bubbling Stream,https://www.youtube.com/embed/fuFalEXVN0k
+S03E04,3,4,1984-01-25,Winter Night,259,https://www.twoinchbrush.com/images/painting259.png,Winter Night,https://www.youtube.com/embed/8ysFkNYwhAE
+S03E05,3,5,1984-02-01,Distant Hills,260,https://www.twoinchbrush.com/images/painting260.png,Distant Hills,https://www.youtube.com/embed/8Zge88tVwjE
+S03E06,3,6,1984-02-08,Covered Bridge,261,https://www.twoinchbrush.com/images/painting261.png,Covered Bridge,https://www.youtube.com/embed/OHSm8kLE7js
+S03E07,3,7,1984-02-15,Quiet Inlet,262,https://www.twoinchbrush.com/images/painting262.png,Quiet Inlet,https://www.youtube.com/embed/9N5IWKzYIyU
+S03E08,3,8,1984-02-22,Night Light,263,https://www.twoinchbrush.com/images/painting263.png,Night Light,https://www.youtube.com/embed/l141Y0x8om0
+S03E09,3,9,1984-03-01,The Old Mill,264,https://www.twoinchbrush.com/images/painting264.png,The Old Mill,https://www.youtube.com/embed/OFKFUJ9eDNs
+S03E10,3,10,1984-03-08,Campfire,265,https://www.twoinchbrush.com/images/painting265.png,Campfire,https://www.youtube.com/embed/L5bXkI0-pEg
+S03E11,3,11,1984-03-15,Rustic Barn,266,https://www.twoinchbrush.com/images/painting266.png,Rustic Barn,https://www.youtube.com/embed/WJJwrnFhUUg
+S03E12,3,12,1984-03-22,Hidden Lake,267,https://www.twoinchbrush.com/images/painting267.png,Hidden Lake,https://www.youtube.com/embed/P_DaqkFbnac
+S03E13,3,13,1984-03-29,Peaceful Waters,268,https://www.twoinchbrush.com/images/painting268.png,Peaceful Waters,https://www.youtube.com/embed/Z0vtjRLqXcQ
+S04E01,4,1,1984-09-05,Purple Splendor,243,https://www.twoinchbrush.com/images/painting243.png,Purple Splendor,https://www.youtube.com/embed/hP4GfMgsNVE
+S04E02,4,2,1984-09-12,Tranquil Valley,244,https://www.twoinchbrush.com/images/painting244.png,Tranquil Valley,https://www.youtube.com/embed/PbchoOWWCZs
+S04E03,4,3,1984-09-19,Majestic Mountains,245,https://www.twoinchbrush.com/images/painting245.png,Majestic Mountains,https://www.youtube.com/embed/NcVeRlPu_5w
+S04E04,4,4,1984-09-26,Winter Sawscape,246,https://www.twoinchbrush.com/images/painting246.png,Winter Sawscape,https://www.youtube.com/embed/lmKAwKrONmE
+S04E05,4,5,1984-10-03,Evening Seascape,247,https://www.twoinchbrush.com/images/painting247.png,Evening Seascape,https://www.youtube.com/embed/y5k4GXw_-yI
+S04E06,4,6,1984-10-10,Warm Summer Day,248,https://www.twoinchbrush.com/images/painting248.png,Warm Summer Day,https://www.youtube.com/embed/GBN9AIw3Ao4
+S04E07,4,7,1984-10-17,Cabin in the Woods,249,https://www.twoinchbrush.com/images/painting249.png,Cabin in the Woods,https://www.youtube.com/embed/81QKellPA70
+S04E08,4,8,1984-10-24,Wetlands,250,https://www.twoinchbrush.com/images/painting250.png,Wetlands,https://www.youtube.com/embed/2FpVyGanPwM
+S04E09,4,9,1984-10-31,Cool Waters,251,https://www.twoinchbrush.com/images/painting251.png,Cool Waters,https://www.youtube.com/embed/tJRvBcqQd5A
+S04E10,4,10,1984-11-07,Quiet Woods,252,https://www.twoinchbrush.com/images/painting252.png,Quiet Woods,https://www.youtube.com/embed/wIZX57I4aDs
+S04E11,4,11,1984-11-14,Northwest Majesty,253,https://www.twoinchbrush.com/images/painting253.png,Northwest Majesty,https://www.youtube.com/embed/9DU6bunvD_g
+S04E12,4,12,1984-11-21,Autumn Days,254,https://www.twoinchbrush.com/images/painting254.png,Autumn Days,https://www.youtube.com/embed/VAdMkf-AAPM
+S04E13,4,13,1984-11-28,Mountain Challenge,255,https://www.twoinchbrush.com/images/painting255.png,Mountain Challenge,https://www.youtube.com/embed/o2cjLA_wgIk
+S05E01,5,1,1985-01-02,Mountain Waterfall,230,https://www.twoinchbrush.com/images/painting230.png,Mountain Waterfall,https://www.youtube.com/embed/DqhzxdkdQS0
+S05E02,5,2,1985-01-09,Twilight Meadow,231,https://www.twoinchbrush.com/images/painting231.png,Twilight Meadow,https://www.youtube.com/embed/6evqNlOO7Bw
+S05E03,5,3,1985-01-16,Mountain Blossoms,232,https://www.twoinchbrush.com/images/painting232.png,Mountain Blossoms,https://www.youtube.com/embed/UVhhStJAJZc
+S05E04,5,4,1985-01-23,Winter Stillness,233,https://www.twoinchbrush.com/images/painting233.png,Winter Stillness,https://www.youtube.com/embed/qg9c1SqdRko
+S05E05,5,5,1985-01-30,Quiet Pond,234,https://www.twoinchbrush.com/images/painting234.png,Quiet Pond,https://www.youtube.com/embed/aiK9xOIJtV8
+S05E06,5,6,1985-02-06,Ocean Sunrise,235,https://www.twoinchbrush.com/images/painting235.png,Ocean Sunrise,https://www.youtube.com/embed/u0Bz6TNUK1Q
+S05E07,5,7,1985-02-13,Bubbling Brook,236,https://www.twoinchbrush.com/images/painting236.png,Bubbling Brook,https://www.youtube.com/embed/LiKCzeqn-kg
+S05E08,5,8,1985-02-20,Arizona Splendor,237,https://www.twoinchbrush.com/images/painting237.png,Arizona Splendor,https://www.youtube.com/embed/spFwCh2616s
+S05E09,5,9,1985-02-27,Anatomy of a Wave,238,https://www.twoinchbrush.com/images/painting238.png,Anatomy of a Wave,https://www.youtube.com/embed/DFQlu6eqrBo
+S05E10,5,10,1985-03-06,The Windmill,239,https://www.twoinchbrush.com/images/painting239.png,The Windmill,https://www.youtube.com/embed/xj8xsTSkbUk
+S05E11,5,11,1985-03-13,Autumn Glory,240,https://www.twoinchbrush.com/images/painting240.png,Autumn Glory,https://www.youtube.com/embed/yTzlm_t0RmY
+S05E12,5,12,1985-03-20,Indian Girl,241,https://www.twoinchbrush.com/images/painting241.png,Indian Girl,https://www.youtube.com/embed/2uXMx8Kjs8I
+S05E13,5,13,1985-03-27,Meadow Stream,242,https://www.twoinchbrush.com/images/painting242.png,Meadow Stream,https://www.youtube.com/embed/87MMbN1bQCs
+S06E01,6,1,1985-05-01,Blue River,217,https://www.twoinchbrush.com/images/painting217.png,Blue River,https://www.youtube.com/embed/LygUyAb78oY
+S06E02,6,2,1985-05-08,Nature's Edge,218,https://www.twoinchbrush.com/images/painting218.png,Nature's Edge,https://www.youtube.com/embed/Bcqyzo85A1o
+S06E03,6,3,1985-05-15,Morning Mist,219,https://www.twoinchbrush.com/images/painting219.png,Morning Mist,https://www.youtube.com/embed/wbZreRaE74k
+S06E04,6,4,1985-05-22,Whispering Stream,220,https://www.twoinchbrush.com/images/painting220.png,Whispering Stream,https://www.youtube.com/embed/QglIjlqsUdU
+S06E05,6,5,1985-05-29,Secluded Forest,221,https://www.twoinchbrush.com/images/painting221.png,Secluded Forest,https://www.youtube.com/embed/USkduOfwJok
+S06E06,6,6,1985-06-05,Snow Trail,222,https://www.twoinchbrush.com/images/painting222.png,Snow Trail,https://www.youtube.com/embed/n9EsFFtwZnE
+S06E07,6,7,1985-06-12,Arctic Beauty,223,https://www.twoinchbrush.com/images/painting223.png,Arctic Beauty,https://www.youtube.com/embed/UQ-RTZCOQn0
+S06E08,6,8,1985-06-19,Horizons West,224,https://www.twoinchbrush.com/images/painting224.png,Horizons West,https://www.youtube.com/embed/m6UM-rN2D6s
+S06E09,6,9,1985-06-26,High Chateau,225,https://www.twoinchbrush.com/images/painting225.png,High Chateau,https://www.youtube.com/embed/dafH8ks9Zww
+S06E10,6,10,1985-07-02,Country Life,226,https://www.twoinchbrush.com/images/painting226.png,Country Life,https://www.youtube.com/embed/j8Jf7QVKLgQ
+S06E11,6,11,1985-07-09,Western Expanse,227,https://www.twoinchbrush.com/images/painting227.png,Western Expanse,https://www.youtube.com/embed/MTInkV5ODjk
+S06E12,6,12,1985-07-16,Marshlands,228,https://www.twoinchbrush.com/images/painting228.png,Marshlands,https://www.youtube.com/embed/Ugiwi8uizpg
+S06E13,6,13,1985-07-23,Blaze of Color,229,https://www.twoinchbrush.com/images/painting229.png,Blaze of Color,https://www.youtube.com/embed/se7wOprxRGs
+S07E01,7,1,1985-10-02,Winter Cabin,203,https://www.twoinchbrush.com/images/painting203.png,Winter Cabin,https://www.youtube.com/embed/kdlHV6ceI_gw
+S07E02,7,2,1985-10-09,Secluded Lake,204,https://www.twoinchbrush.com/images/painting204.png,Secluded Lake,https://www.youtube.com/embed/2OxSJcFvpoU
+S07E03,7,3,1985-10-16,Evergreen at Sunset,205,https://www.twoinchbrush.com/images/painting205.png,Evergreens at Sunset,https://www.youtube.com/embed/YQPEy3hYGo8
+S07E04,7,4,1985-10-23,Mountain Cabin,206,https://www.twoinchbrush.com/images/painting206.png,Mountain Cabin,https://www.youtube.com/embed/E3IAMvO8GyM
+S07E05,7,5,1985-10-30,Portrait of Sally,208,https://www.twoinchbrush.com/images/painting208.png,Portrait of Sally,https://www.youtube.com/embed/MHJB0IBnuD4
+S07E06,7,6,1985-11-06,Misty Waterfall,209,https://www.twoinchbrush.com/images/painting209.png,Misty Waterfall,https://www.youtube.com/embed/530_cVmexiI
+S07E07,7,7,1985-11-13,Barn at Sunset,210,https://www.twoinchbrush.com/images/painting210.png,Barn at Sunset,https://www.youtube.com/embed/WT6n0K2zGnA
+S07E08,7,8,1985-11-20,Mountain Splendor,211,https://www.twoinchbrush.com/images/painting211.png,Mountain Splendor,https://www.youtube.com/embed/GhOGZMpPUSE
+S07E09,7,9,1985-11-27,Lake by Mountain,212,https://www.twoinchbrush.com/images/painting212.png,Lake by Mountain,https://www.youtube.com/embed/yAiYirlcq7o
+S07E10,7,10,1985-12-06,Mountain Glory,213,https://www.twoinchbrush.com/images/painting213.png,Mountain Glory,https://www.youtube.com/embed/0M9pwLHRR2c
+S07E11,7,11,1985-12-13,Grey Winter,214,https://www.twoinchbrush.com/images/painting214.png,Grey Winter,https://www.youtube.com/embed/sS-hNYgDUak
+S07E12,7,12,1985-12-20,Dock Scene,215,https://www.twoinchbrush.com/images/painting215.png,Dock Scene,https://www.youtube.com/embed/4KYxkqlzyqM
+S07E13,7,13,1985-12-27,Dark Waterfall,216,https://www.twoinchbrush.com/images/painting216.png,Dark Waterfall,https://www.youtube.com/embed/VqMbL00eZqw
+S08E01,8,1,1986-01-02,Misty Rolling Hills,190,https://www.twoinchbrush.com/images/painting190.png,Misty Rolling Hills,https://www.youtube.com/embed/cC5ozePVKGI
+S08E02,8,2,1986-01-09,Lakeside Cabin,191,https://www.twoinchbrush.com/images/painting191.png,Lakeside Cabin,https://www.youtube.com/embed/CP6_5cQVZvQ
+S08E03,8,3,1986-01-16,Warm Winter Day,192,https://www.twoinchbrush.com/images/painting192.png,Warm Winter Day,https://www.youtube.com/embed/mUJoNLWQ1yI
+S08E04,8,4,1986-01-23,Waterside Way,193,https://www.twoinchbrush.com/images/painting193.png,Waterside Way,https://www.youtube.com/embed/uj5FE70BcB0
+S08E05,8,5,1986-01-30,Hunter's Haven,194,https://www.twoinchbrush.com/images/painting194.png,Hunter's Haven,https://www.youtube.com/embed/Da4SPyh1ATM
+S08E06,8,6,1986-02-06,Bubbling Mountain Brook,195,https://www.twoinchbrush.com/images/painting195.png,Bubbling Mountain Brook,https://www.youtube.com/embed/U2_SKgM3f4A
+S08E07,8,7,1986-02-13,Winter Hideaway,196,https://www.twoinchbrush.com/images/painting196.png,Winter Hideaway,https://www.youtube.com/embed/19oz9XHZNzA
+S08E08,8,8,1986-02-20,Foot of the Mountain,197,https://www.twoinchbrush.com/images/painting197.png,Foot of the Mountain,https://www.youtube.com/embed/cIUBUc_ITBc
+S08E09,8,9,1986-02-27,Majestic Pine,198,https://www.twoinchbrush.com/images/painting198.png,Majestic Pine,https://www.youtube.com/embed/x5CoQj9zr-c
+S08E10,8,10,1986-03-06,Cactus at Sunset,199,https://www.twoinchbrush.com/images/painting199.png,Cactus at Sunset,https://www.youtube.com/embed/XBqD3QhKU24
+S08E11,8,11,1986-03-13,Mountain Range,200,https://www.twoinchbrush.com/images/painting200.png,Mountain Range,https://www.youtube.com/embed/V_l6olF3yHI
+S08E12,8,12,1986-03-20,Lonely Retreat,201,https://www.twoinchbrush.com/images/painting201.png,Lonely Retreat,https://www.youtube.com/embed/qTDQt_PdlYc
+S08E13,8,13,1986-03-27,Northern Lights,202,https://www.twoinchbrush.com/images/painting202.png,Northern Lights,https://www.youtube.com/embed/vgbMONXc9Cs
+S09E01,9,1,1986-04-30,Winter Evergreens,177,https://www.twoinchbrush.com/images/painting177.png,Winter Evergreens,https://www.youtube.com/embed/O6L5YPt9CeU
+S09E02,9,2,1986-05-07,Surf's Up,178,https://www.twoinchbrush.com/images/painting178.png,Surf's Up,https://www.youtube.com/embed/ZKxFvyyOBPQ
+S09E03,9,3,1986-05-14,Red Sunset,179,https://www.twoinchbrush.com/images/painting179.png,Red Sunset,https://www.youtube.com/embed/e5JhYi_G-l0
+S09E04,9,4,1986-05-21,Meadow Road,180,https://www.twoinchbrush.com/images/painting180.png,Meadow Road,https://www.youtube.com/embed/u5VT_WGM0kg
+S09E05,9,5,1986-05-28,Winter Oval,181,https://www.twoinchbrush.com/images/painting181.png,Winter Oval,https://www.youtube.com/embed/pYWiLm_-sXw
+S09E06,9,6,1986-06-04,Secluded Beach,182,https://www.twoinchbrush.com/images/painting182.png,Secluded Beach,https://www.youtube.com/embed/WGUcw_kFvzU
+S09E07,9,7,1986-06-11,Forest Hills,183,https://www.twoinchbrush.com/images/painting183.png,Forest Hills,https://www.youtube.com/embed/E3XW_Zp238U
+S09E08,9,8,1986-06-18,Little House by the Road,184,https://www.twoinchbrush.com/images/painting184.png,Little House by the Road,https://www.youtube.com/embed/3CDg_9gL-5M
+S09E09,9,9,1986-06-25,Mountain Pass,185,https://www.twoinchbrush.com/images/painting185.png,Mountain Path,https://www.youtube.com/embed/e0VUprkc1n0
+S09E10,9,10,1986-07-02,Country Charm,186,https://www.twoinchbrush.com/images/painting186.png,Country Charm,https://www.youtube.com/embed/9wp8NRzCJnw
+S09E11,9,11,1986-07-09,Nature's Paradise,187,https://www.twoinchbrush.com/images/painting187.png,Nature's Paradise,https://www.youtube.com/embed/7yU55PUls2c
+S09E12,9,12,1986-07-16,Mountain by the Sea,188,https://www.twoinchbrush.com/images/painting188.png,Mountain by the Sea,https://www.youtube.com/embed/so--opB-yuQ
+S09E13,9,13,1986-07-23,Mountain Hideaway,189,https://www.twoinchbrush.com/images/painting189.png,Mountain Hideaway,https://www.youtube.com/embed/q48EWPrbzVs
+S10E01,10,1,1986-09-03,Towering Peaks,163,https://www.twoinchbrush.com/images/painting163.png,Towering Peaks,https://www.youtube.com/embed/1s58rW0_LN4
+S10E02,10,2,1986-09-10,Cabin at Sunset,164,https://www.twoinchbrush.com/images/painting164.png,Cabin at Sunset,https://www.youtube.com/embed/a6Wil3OXNuI
+S10E03,10,3,1986-09-17,Twin Falls,165,https://www.twoinchbrush.com/images/painting165.png,Twin Falls,https://www.youtube.com/embed/cMwkY8ojRik
+S10E04,10,4,1986-09-24,Secluded Bridge,166,https://www.twoinchbrush.com/images/painting166.png,Secluded Bridge,https://www.youtube.com/embed/vrAMRxBB5KI
+S10E05,10,5,1986-10-01,Ocean Breeze,167,https://www.twoinchbrush.com/images/painting167.png,Ocean Breeze,https://www.youtube.com/embed/XZmdzfvXRuw
+S10E06,10,6,1986-10-08,Autumn Woods,168,https://www.twoinchbrush.com/images/painting168.png,Autumn Woods,https://www.youtube.com/embed/vKyMU5Z8cDI
+S10E07,10,7,1986-10-15,Winter Solitude,170,https://www.twoinchbrush.com/images/painting170.png,Winter Solitude,https://www.youtube.com/embed/ov4YaCQB9co
+S10E08,10,8,1986-10-22,Golden Sunset,171,https://www.twoinchbrush.com/images/painting171.png,Golden Sunset,https://www.youtube.com/embed/CiNDyckERXQ
+S10E09,10,9,1986-10-29,Mountain Oval,172,https://www.twoinchbrush.com/images/painting172.png,Mountain Oval,https://www.youtube.com/embed/Qj6lMtnCt8o
+S10E10,10,10,1986-11-05,Ocean Sunset,173,https://www.twoinchbrush.com/images/painting173.png,Ocean Sunset,https://www.youtube.com/embed/OJ_xqtvZf3o
+S10E11,10,11,1986-11-12,Triple View,174,https://www.twoinchbrush.com/images/painting174.png,Triple View,https://www.youtube.com/embed/zoTeyliLn5o
+S10E12,10,12,1986-11-19,Winter Frost,175,https://www.twoinchbrush.com/images/painting175.png,Winter Frost,https://www.youtube.com/embed/8satX-hLkuI
+S10E13,10,13,1986-11-26,Lakeside Cabin,176,https://www.twoinchbrush.com/images/painting176.png,Lakeside Cabin,https://www.youtube.com/embed/1l_TsfCIb_I
+S11E01,11,1,1986-12-31,Mountain Stream,150,https://www.twoinchbrush.com/images/painting150.png,Mountain Stream,https://www.youtube.com/embed/xdFCj6BzQio
+S11E02,11,2,1987-01-07,Country Cabin,151,https://www.twoinchbrush.com/images/painting151.png,Country Cabin,https://www.youtube.com/embed/Dkww2nHpuZw
+S11E03,11,3,1987-01-14,Daisy Delight,152,https://www.twoinchbrush.com/images/painting152.png,Daisy Delight,https://www.youtube.com/embed/HuHC1RqtvDA
+S11E04,11,4,1987-01-21,Hidden Stream,153,https://www.twoinchbrush.com/images/painting153.png,Hidden Stream,https://www.youtube.com/embed/JGzTg8fCj4w
+S11E05,11,5,1987-01-28,Towering Glacier,154,https://www.twoinchbrush.com/images/painting154.png,Towering Glacier,https://www.youtube.com/embed/67vdGbA3Xkg
+S11E06,11,6,1987-02-04,Oval Barn,155,https://www.twoinchbrush.com/images/painting155.png,Oval Barn,https://www.youtube.com/embed/HqBhCibidNM
+S11E07,11,7,1987-02-11,Lakeside Path,156,https://www.twoinchbrush.com/images/painting156.png,Lakeside Path,https://www.youtube.com/embed/1yjGoJokbZg
+S11E08,11,8,1987-02-18,Sunset Oval,157,https://www.twoinchbrush.com/images/painting157.png,Sunset Oval,https://www.youtube.com/embed/9xG6IzcGotI
+S11E09,11,9,1987-02-25,Winter Barn,158,https://www.twoinchbrush.com/images/painting158.png,Winter Barn,https://www.youtube.com/embed/_xkn0ceDreo
+S11E10,11,10,1987-03-04,Sunset Over the Waves,159,https://www.twoinchbrush.com/images/painting159.png,Sunset over the Waves,https://www.youtube.com/embed/c4b_B2F1eZg
+S11E11,11,11,1987-03-11,Golden Glow,160,https://www.twoinchbrush.com/images/painting160.png,Golden Glow,https://www.youtube.com/embed/aA8RhtaWACA
+S11E12,11,12,1987-03-18,Roadside Barn,161,https://www.twoinchbrush.com/images/painting161.png,Roadside Barn,https://www.youtube.com/embed/vJpKhiXvXdA
+S11E13,11,13,1987-03-25,Happy Accident,162,https://www.twoinchbrush.com/images/painting162.png,Happy Accident,https://www.youtube.com/embed/Fw6odlNp7_8
+S12E01,12,1,1987-04-29,Golden Knoll,137,https://www.twoinchbrush.com/images/painting137.png,Golden Knoll,https://www.youtube.com/embed/-O0Bs65eN5w
+S12E02,12,2,1987-05-06,Mountain Reflections,138,https://www.twoinchbrush.com/images/painting138.png,Mountain Reflections,https://www.youtube.com/embed/rzYpa4XGSnA
+S12E03,12,3,1987-05-13,Secluded Mountain,139,https://www.twoinchbrush.com/images/painting139.png,Secluded Mountain,https://www.youtube.com/embed/3PZabdohLso
+S12E04,12,4,1987-05-20,Bright Autumn Trees,140,https://www.twoinchbrush.com/images/painting140.png,Bright Autumn Trees,https://www.youtube.com/embed/aR-C3h5zURM
+S12E05,12,5,1987-05-27,Black Seascape,141,https://www.twoinchbrush.com/images/painting141.png,Black Seascape,https://www.youtube.com/embed/P_aCan4cBwc
+S12E06,12,6,1987-06-03,Steep Mountains,142,https://www.twoinchbrush.com/images/painting142.png,Steep Mountains,https://www.youtube.com/embed/fRK8_ioYWw4
+S12E07,12,7,1987-06-10,Quiet Mountain River,143,https://www.twoinchbrush.com/images/painting143.png,Quiet Mountains River,https://www.youtube.com/embed/Leiw-FtADZc
+S12E08,12,8,1987-06-17,Evening Waterfall,144,https://www.twoinchbrush.com/images/painting144.png,Evening Waterfall,https://www.youtube.com/embed/PutvF_P4588
+S12E09,12,9,1987-06-24,Tropical Seascape,145,https://www.twoinchbrush.com/images/painting145.png,Tropical Seascape,https://www.youtube.com/embed/RrBsbqO9aqI
+S12E10,12,10,1987-07-01,Mountain at Sunset,146,https://www.twoinchbrush.com/images/painting146.png,Mountain at Sunset,https://www.youtube.com/embed/HCsCatvigtw
+S12E11,12,11,1987-07-08,Soft Mountain Glow,147,https://www.twoinchbrush.com/images/painting147.png,Soft Mountain Glow,https://www.youtube.com/embed/gOGJYHWjXgE
+S12E12,12,12,1987-07-15,Mountain in an Oval,148,https://www.twoinchbrush.com/images/painting148.png,Mountain in an Oval,https://www.youtube.com/embed/1jRPshs27H8
+S12E13,12,13,1987-07-22,Winter Mountain,149,https://www.twoinchbrush.com/images/painting149.png,Winter Mountain,https://www.youtube.com/embed/46vI20697HI
+S13E01,13,1,1987-09-02,Rolling Hills,124,https://www.twoinchbrush.com/images/painting124.png,Rolling Hills,https://www.youtube.com/embed/H4GyGrT7lEQ
+S13E02,13,2,1987-09-09,Frozen Solitude,125,https://www.twoinchbrush.com/images/painting125.png,Frozen Solitude,https://www.youtube.com/embed/kNZssD9zWlw
+S13E03,13,3,1987-09-16,Meadow Brook,126,https://www.twoinchbrush.com/images/painting126.png,Meadow Brook,https://www.youtube.com/embed/06W8GsWj2Yg
+S13E04,13,4,1987-09-23,Evening Sunset,127,https://www.twoinchbrush.com/images/painting127.png,Evening at Sunset,https://www.youtube.com/embed/7ZUQTXuDPaI
+S13E05,13,5,1987-09-30,Mountain View,128,https://www.twoinchbrush.com/images/painting128.png,Mountain View,https://www.youtube.com/embed/dJfnAyDLwPY
+S13E06,13,6,1987-10-07,Hidden Creek,129,https://www.twoinchbrush.com/images/painting129.png,Hidden Creek,https://www.youtube.com/embed/KmoRz01bm0Y
+S13E07,13,7,1987-10-14,Peaceful Haven,130,https://www.twoinchbrush.com/images/painting130.png,Peaceful Haven,https://www.youtube.com/embed/j20pZ96E_CE
+S13E08,13,8,1987-10-21,Mountain Exhibition,131,https://www.twoinchbrush.com/images/painting131.png,Mountain Exhibition,https://www.youtube.com/embed/bgI3_1quJ18
+S13E09,13,9,1987-10-28,Emerald Waters,132,https://www.twoinchbrush.com/images/painting132.png,Emerald Waters,https://www.youtube.com/embed/lLunPQBzW6g
+S13E10,13,10,1987-11-04,Mountain Summit,133,https://www.twoinchbrush.com/images/painting133.png,Mountain Summit,https://www.youtube.com/embed/kasGRkfkiPM
+S13E11,13,11,1987-11-11,Cabin Hideaway,134,https://www.twoinchbrush.com/images/painting134.png,Cabin Hideaway,https://www.youtube.com/embed/NjTlW2NL1Lo
+S13E12,13,12,1987-11-18,Oval Essence,135,https://www.twoinchbrush.com/images/painting135.png,Oval Essence,https://www.youtube.com/embed/q7WXF_BSEXw
+S13E13,13,13,1987-11-25,Lost Lake,136,https://www.twoinchbrush.com/images/painting136.png,Lost Lake,https://www.youtube.com/embed/9-ATP8xyDM0
+S14E01,14,1,1987-12-30,Distant Mountains,111,https://www.twoinchbrush.com/images/painting111.png,Distant Mountains,https://www.youtube.com/embed/GpA9UM7QGag
+S14E02,14,2,1988-01-06,Meadow Brook Surprise,112,https://www.twoinchbrush.com/images/painting112.png,Meadow Brook Surprise,https://www.youtube.com/embed/Ov5oIHTAa10
+S14E03,14,3,1988-01-13,Mountain Moonlight Oval,113,https://www.twoinchbrush.com/images/painting113.png,Mountain Moonlight Oval,https://www.youtube.com/embed/CigXQtT6BPM
+S14E04,14,4,1988-01-20,Snowy Solitude,114,https://www.twoinchbrush.com/images/painting114.png,Snowy Solitude,https://www.youtube.com/embed/1ZriQGhSFTM
+S14E05,14,5,1988-01-27,Mountain River,115,https://www.twoinchbrush.com/images/painting115.png,Mountain River,https://www.youtube.com/embed/CnMLKAGi0yM
+S14E06,14,6,1988-02-03,Graceful Mountains,116,https://www.twoinchbrush.com/images/painting116.png,Graceful Mountains,https://www.youtube.com/embed/0uVe8T-vVVg
+S14E07,14,7,1988-02-10,Windy Waves,117,https://www.twoinchbrush.com/images/painting117.png,Windy Waves,https://www.youtube.com/embed/y6GVVjG4HMg
+S14E08,14,8,1988-02-17,On a Clear Day,118,https://www.twoinchbrush.com/images/painting118.png,On a Clear Day,https://www.youtube.com/embed/e63Cgln6Yag
+S14E09,14,9,1988-02-24,Riverside Escape Oval,119,https://www.twoinchbrush.com/images/painting119.png,Riverside Escape Oval,https://www.youtube.com/embed/d83REwSGfGo
+S14E10,14,10,1988-03-02,Surprising Falls,120,https://www.twoinchbrush.com/images/painting120.png,Surprising Falls,https://www.youtube.com/embed/QbclL1ca7_s
+S14E11,14,11,1988-03-09,Shadow Pond,121,https://www.twoinchbrush.com/images/painting121.png,Shadow Pond,https://www.youtube.com/embed/BQWJ3kqonpA
+S14E12,14,12,1988-03-16,Misty Forest,122,https://www.twoinchbrush.com/images/painting122.png,Misty Forest Oval,https://www.youtube.com/embed/ddU9vQvSpw8
+S14E13,14,13,1988-03-23,Natural Wonder,123,https://www.twoinchbrush.com/images/painting123.png,Natural Wonder,https://www.youtube.com/embed/knOutsaiKfU
+S15E01,15,1,1988-04-27,Splendor of Winter,98,https://www.twoinchbrush.com/images/painting98.png,Splendor of Winter,https://www.youtube.com/embed/oJvk7gPDHiE
+S15E02,15,2,1988-05-04,Colors of Nature,99,https://www.twoinchbrush.com/images/painting99.png,Colors of Nature,https://www.youtube.com/embed/Me9Ietooq4w
+S15E03,15,3,1988-05-11,Grandpa's Barn,100,https://www.twoinchbrush.com/images/painting100.png,Grandpa's Barn,https://www.youtube.com/embed/IPPU49PyfEA
+S15E04,15,4,1988-05-18,Peaceful Reflections,101,https://www.twoinchbrush.com/images/painting101.png,Peaceful Reflections,https://www.youtube.com/embed/gYuH4Ilqdhs
+S15E05,15,5,1988-05-25,Hidden Winter Moon Oval,102,https://www.twoinchbrush.com/images/painting102.png,Hidden Winter Moon Oval,https://www.youtube.com/embed/yxAMOdl6RJE
+S15E06,15,6,1988-06-01,Waves of Wonder,103,https://www.twoinchbrush.com/images/painting103.png,Waves of Wonder,https://www.youtube.com/embed/tayQX_ng-Nc
+S15E07,15,7,1988-06-08,Cabin by the Pond,104,https://www.twoinchbrush.com/images/painting104.png,Cabin by the Pond,https://www.youtube.com/embed/TyOO6WeP2AY
+S15E08,15,8,1988-06-15,Fall Stream,105,https://www.twoinchbrush.com/images/painting105.png,Fall Stream,https://www.youtube.com/embed/ZY0ofhdV_L0
+S15E09,15,9,1988-06-22,Christmas Eve Snow,106,https://www.twoinchbrush.com/images/painting106.png,Christmas Eve Snow,https://www.youtube.com/embed/cVqFG2pxK2A
+S15E10,15,10,1988-06-29,Forest Dawn Oval,107,https://www.twoinchbrush.com/images/painting107.png,Forest Down Oval,https://www.youtube.com/embed/COsJUfPN2dA
+S15E11,15,11,1988-07-06,Pathway to Autumn,108,https://www.twoinchbrush.com/images/painting108.png,Pathway to Autumn,https://www.youtube.com/embed/Hg5RKc6xiL4
+S15E12,15,12,1988-07-13,Deep Forest Lake,109,https://www.twoinchbrush.com/images/painting109.png,Deep Forest Lake,https://www.youtube.com/embed/2bjFmSQjQrw
+S15E13,15,13,1988-07-20,Peaks of Majesty,110,https://www.twoinchbrush.com/images/painting110.png,Peaks of Majesty,https://www.youtube.com/embed/lTb8DN6G6dE
+S16E01,16,1,1988-08-17,Two Seasons,84,https://www.twoinchbrush.com/images/painting84.png,Two Seasons,https://www.youtube.com/embed/jwVz0uTLH1I
+S16E02,16,2,1988-08-24,Nestled Cabin,85,https://www.twoinchbrush.com/images/painting85.png,Nestled Cabin,https://www.youtube.com/embed/l_jN9KN257M
+S16E03,16,3,1988-08-31,Wintertime Discovery,86,https://www.twoinchbrush.com/images/painting86.png,Wintertime Discovery,https://www.youtube.com/embed/uZyZW3tkCE0
+S16E04,16,4,1988-09-07,Mountain Mirage,87,https://www.twoinchbrush.com/images/painting87.png,Mountain Mirage Wood Shape,https://www.youtube.com/embed/jfCsew_mz7A
+S16E05,16,5,1988-09-14,Double Oval Fantasy,88,https://www.twoinchbrush.com/images/painting88.png,Double Oval Fantasy,https://www.youtube.com/embed/4jAsLpJzjHM
+S16E06,16,6,1988-09-21,Contemplative Lady,89,https://www.twoinchbrush.com/images/painting89.png,Contemplative Lady,https://www.youtube.com/embed/gnp6WE7Ql-s
+S16E07,16,7,1988-09-28,Deep Woods,90,https://www.twoinchbrush.com/images/painting90.png,Deep Woods,https://www.youtube.com/embed/rE5ZVs_YJfE
+S16E08,16,8,1988-10-05,High Tide,91,https://www.twoinchbrush.com/images/painting91.png,High Tide,https://www.youtube.com/embed/_IREQ4SIcX8
+S16E09,16,9,1988-10-12,Barn in Snow Oval,93,https://www.twoinchbrush.com/images/painting93.png,Barn in Snow Oval,https://www.youtube.com/embed/wJmi7-G9r-w
+S16E10,16,10,1988-10-19,That Time of Year,94,https://www.twoinchbrush.com/images/painting94.png,That Time of Year,https://www.youtube.com/embed/q5moLoqOkP0
+S16E11,16,11,1988-10-26,Waterfall Wonder,95,https://www.twoinchbrush.com/images/painting95.png,Waterfall Wonder,https://www.youtube.com/embed/AGhXEPfp-W4
+S16E12,16,12,1988-11-02,Mighty Mountain Lake,96,https://www.twoinchbrush.com/images/painting96.png,Mighty Mountain Lake,https://www.youtube.com/embed/4vXB2R8ybDE
+S16E13,16,13,1988-11-09,Wooded Stream Oval,97,https://www.twoinchbrush.com/images/painting97.png,Wooded Stream Oval,https://www.youtube.com/embed/-XA2h17y3HU
+S17E01,17,1,1989-01-04,Golden Mist Oval,71,https://www.twoinchbrush.com/images/painting71.png,Golden Mist Oval,https://www.youtube.com/embed/lhpfaW0k6uM
+S17E02,17,2,1989-01-11,Old Place Home,72,https://www.twoinchbrush.com/images/painting72.png,The Old Home Place,https://www.youtube.com/embed/EVQcDEiJh2o
+S17E03,17,3,1989-01-18,Soothing Vista,73,https://www.twoinchbrush.com/images/painting73.png,Soothing Vista,https://www.youtube.com/embed/NqfRLiv0SZ0
+S17E04,17,4,1989-01-25,Stormy Seas,74,https://www.twoinchbrush.com/images/painting74.png,Stormy Seas,https://www.youtube.com/embed/LE6agCR5iBw
+S17E05,17,5,1989-02-01,Country Time,75,https://www.twoinchbrush.com/images/painting75.png,Country Time,https://www.youtube.com/embed/e_bt9rQoGN0
+S17E06,17,6,1989-02-08,A Mild Winter's Day,76,https://www.twoinchbrush.com/images/painting76.png,A Mild Winter's Day,https://www.youtube.com/embed/BbYO579MmhA
+S17E07,17,7,1989-02-15,Spectacular Waterfall,77,https://www.twoinchbrush.com/images/painting77.png,Spectacular Waterfall,https://www.youtube.com/embed/nK-HebXL2uw
+S17E08,17,8,1989-02-22,View From the Park,78,https://www.twoinchbrush.com/images/painting78.png,View from the Park,https://www.youtube.com/embed/Q4n90jsOUtY
+S17E09,17,9,1989-03-01,Lake View,79,https://www.twoinchbrush.com/images/painting79.png,Lake View,https://www.youtube.com/embed/07acfzBaoa0
+S17E10,17,10,1989-03-08,Old Country Mill,80,https://www.twoinchbrush.com/images/painting80.png,Old Country Mill,https://www.youtube.com/embed/n8HlFCQACYA
+S17E11,17,11,1989-03-15,Morning Walk,81,https://www.twoinchbrush.com/images/painting81.png,Morning Walk,https://www.youtube.com/embed/pSvgNkQdR2Y
+S17E12,17,12,1989-03-22,Nature's Splendor,82,https://www.twoinchbrush.com/images/painting82.png,Nature's Splendor,https://www.youtube.com/embed/uCAtI2IwEwk
+S17E13,17,13,1989-03-29,Mountain Beauty,83,https://www.twoinchbrush.com/images/painting83.png,Mountain Beauty,https://www.youtube.com/embed/8P-YeoTmVrw
+S18E01,18,1,1989-07-05,Half Oval Vignette,58,https://www.twoinchbrush.com/images/painting58.png,Half-Oval Vignette,https://www.youtube.com/embed/uY3fIry2tOE
+S18E02,18,2,1989-07-12,Absolutely Autumn,59,https://www.twoinchbrush.com/images/painting59.png,Absolutely Autumn,https://www.youtube.com/embed/PGPVpil2UmE
+S18E03,18,3,1989-07-19,Mountain Seclusion,60,https://www.twoinchbrush.com/images/painting60.png,Mountain Seclusion,https://www.youtube.com/embed/EBZKuVbRY54
+S18E04,18,4,1989-07-26,Crimson Oval,61,https://www.twoinchbrush.com/images/painting61.png,Crimson Oval,https://www.youtube.com/embed/R7Y3izMFPbM
+S18E05,18,5,1989-08-02,Autumn Exhibition,62,https://www.twoinchbrush.com/images/painting62.png,Autumn Exhibition,https://www.youtube.com/embed/6afHY2d9Lv8
+S18E06,18,6,1989-08-09,Majestic Peaks,63,https://www.twoinchbrush.com/images/painting63.png,Majestic Peaks,https://www.youtube.com/embed/lilbzLCNnDo
+S18E07,18,7,1989-08-16,Golden Morning Mist,64,https://www.twoinchbrush.com/images/painting64.png,Golden Morning Mist,https://www.youtube.com/embed/rCHXqj4DHlM
+S18E08,18,8,1989-08-23,Winter Lace,65,https://www.twoinchbrush.com/images/painting65.png,Winter Lace,https://www.youtube.com/embed/WJF_qoQRPck
+S18E09,18,9,1989-08-30,Seascape Fantasy,66,https://www.twoinchbrush.com/images/painting66.png,Seascape Fantasy,https://www.youtube.com/embed/sBBBilrDuSw
+S18E10,18,10,1989-09-06,Double Oval Stream,67,https://www.twoinchbrush.com/images/painting67.png,Double Oval Stream,https://www.youtube.com/embed/rRjnHdr9DmU
+S18E11,18,11,1989-09-13,Enchanted Forest,68,https://www.twoinchbrush.com/images/painting68.png,Enchanted Forest,https://www.youtube.com/embed/ikR7UT9mVBw
+S18E12,18,12,1989-09-20,Southwest Serenity,69,https://www.twoinchbrush.com/images/painting69.png,Southwest Serenity,https://www.youtube.com/embed/EVfPPJ5FUmA
+S18E13,18,13,1989-09-27,Rippling Waters,70,https://www.twoinchbrush.com/images/painting70.png,Rippling Waters,https://www.youtube.com/embed/XvnJBynSiT0
+S19E01,19,1,1990-01-03,Snowfall Magic,44,https://www.twoinchbrush.com/images/painting44.png,Snowfall Magic,https://www.youtube.com/embed/1enWTsRi16o
+S19E02,19,2,1990-01-10,Quiet Mountain Lake,45,https://www.twoinchbrush.com/images/painting45.png,Quiet Mountain Lake,https://www.youtube.com/embed/2gq2V6dCt2I
+S19E03,19,3,1990-01-17,Final Embers of Sunlight,46,https://www.twoinchbrush.com/images/painting46.png,Final Embers of Sunlight,https://www.youtube.com/embed/IeFbdk36MUU
+S19E04,19,4,1990-01-24,Snowy Morn,47,https://www.twoinchbrush.com/images/painting47.png,Snowy Morn,https://www.youtube.com/embed/iB1TDWlo0kk
+S19E05,19,5,1990-01-31,Camper's Haven,48,https://www.twoinchbrush.com/images/painting48.png,Camper's Haven,https://www.youtube.com/embed/C34WAUgkAT0
+S19E06,19,6,1990-02-07,Waterfall in the Woods,49,https://www.twoinchbrush.com/images/painting49.png,Waterfall in the Woods,https://www.youtube.com/embed/uBRKVa7sy1Q
+S19E07,19,7,1990-02-14,Covered Bridge Oval,50,https://www.twoinchbrush.com/images/painting50.png,Covered Bridge Oval,https://www.youtube.com/embed/F4iPbH1OHsQ
+S19E08,19,8,1990-02-21,Scenic Seclusion,51,https://www.twoinchbrush.com/images/painting51.png,Scenic Seclusion,https://www.youtube.com/embed/d50HkqB9JEM
+S19E09,19,9,1990-02-28,Ebb Tide,52,https://www.twoinchbrush.com/images/painting52.png,Ebb Tide,https://www.youtube.com/embed/mFOna_LN7Ys
+S19E10,19,10,1990-03-07,After the Rain,53,https://www.twoinchbrush.com/images/painting53.png,After the Rain,https://www.youtube.com/embed/Wj-3ct7RvAI
+S19E11,19,11,1990-03-14,Winter Elegance,54,https://www.twoinchbrush.com/images/painting54.png,Winter Elegance,https://www.youtube.com/embed/JjBZzKp_u5E
+S19E12,19,12,1990-03-21,Evening's Peace,56,https://www.twoinchbrush.com/images/painting56.png,Evening's Peace,https://www.youtube.com/embed/uEUMVwc4o5U
+S19E13,19,13,1990-03-28,Valley of Tranquility,57,https://www.twoinchbrush.com/images/painting57.png,Valley of Tranquility,https://www.youtube.com/embed/FnY7jDY5PsE
+S20E01,20,1,1990-04-04,Mystic Mountain,31,https://www.twoinchbrush.com/images/painting31.png,Mystic Mountain,https://www.youtube.com/embed/VlucWfTUo1A
+S20E02,20,2,1990-04-11,New Day's Dawn,32,https://www.twoinchbrush.com/images/painting32.png,New Day's Dawn,https://www.youtube.com/embed/vbPdQ0w8ylg
+S20E03,20,3,1990-04-18,Pastel Winter,33,https://www.twoinchbrush.com/images/painting33.png,Winter in Pastel,https://www.youtube.com/embed/kbnXZRNMouM
+S20E04,20,4,1990-04-25,Hazy Day,34,https://www.twoinchbrush.com/images/painting34.png,Hazy Day,https://www.youtube.com/embed/5U3G61r35Mc
+S20E05,20,5,1990-05-02,Divine Elegance,35,https://www.twoinchbrush.com/images/painting35.png,Divine Elegance,https://www.youtube.com/embed/mb-Gwx1S5Gs
+S20E06,20,6,1990-05-09,Cliffside,36,https://www.twoinchbrush.com/images/painting36.png,Cliffside,https://www.youtube.com/embed/p6Uy2qOLvGk
+S20E07,20,7,1990-05-16,Autumn Fantasy,37,https://www.twoinchbrush.com/images/painting37.png,Autumn Fantasy,https://www.youtube.com/embed/FozIp7Va7dY
+S20E08,20,8,1990-05-23,Old Oak Tree,38,https://www.twoinchbrush.com/images/painting38.png,The Old Oak Tree,https://www.youtube.com/embed/dN4HjAn8p5U
+S20E09,20,9,1990-05-30,Winter Paradise,39,https://www.twoinchbrush.com/images/painting39.png,Winter Paradise,https://www.youtube.com/embed/DY1aBv8Z1SQ
+S20E10,20,10,1990-06-06,Days Gone By,40,https://www.twoinchbrush.com/images/painting40.png,Days Gone By,https://www.youtube.com/embed/DmYhNHVIdMI
+S20E11,20,11,1990-06-13,Change of Seasons,41,https://www.twoinchbrush.com/images/painting41.png,Change of Seasons,https://www.youtube.com/embed/QbgPu5f2Vf8
+S20E12,20,12,1990-06-20,Hidden Delight,42,https://www.twoinchbrush.com/images/painting42.png,Hidden Delight,https://www.youtube.com/embed/ZyPNzDaaDt8
+S20E13,20,13,1990-06-27,Double Take,43,https://www.twoinchbrush.com/images/painting43.png,Double Take,https://www.youtube.com/embed/ppzFgG2K2k4
+S21E01,21,1,1990-09-05,Valley View,17,https://www.twoinchbrush.com/images/painting17.png,Valley View,https://www.youtube.com/embed/pw5ETGiiBRg
+S21E02,21,2,1990-09-12,Tranquil Dawn,18,https://www.twoinchbrush.com/images/painting18.png,Tranquil Dawn,https://www.youtube.com/embed/4abDq6Q-mlM
+S21E03,21,3,1990-09-19,Royal Majesty,19,https://www.twoinchbrush.com/images/painting19.png,Royal Majesty,https://www.youtube.com/embed/ubUXBqE6t0U
+S21E04,21,4,1990-09-26,Serenity,20,https://www.twoinchbrush.com/images/painting20.png,Serenity,https://www.youtube.com/embed/crqmO3qDdco
+S21E05,21,5,1990-10-03,Cabin at Trial's End,21,https://www.twoinchbrush.com/images/painting21.png,Cabin at Trails End,https://www.youtube.com/embed/GLkLO4KqTRs
+S21E06,21,6,1990-10-10,Mountain Rhapsody,22,https://www.twoinchbrush.com/images/painting22.png,Mountain Rhapsody,https://www.youtube.com/embed/H4VsmKU5T7g
+S21E07,21,7,1990-10-17,Wilderness Cabin,23,https://www.twoinchbrush.com/images/painting23.png,Wilderness Cabin,https://www.youtube.com/embed/GWehiacnd1E
+S21E08,21,8,1990-10-24,By the Sea,24,https://www.twoinchbrush.com/images/painting24.png,By the Sea,https://www.youtube.com/embed/8tHHBTK6wwc
+S21E09,21,9,1990-10-31,Indian Summer,25,https://www.twoinchbrush.com/images/painting25.png,Indian Summer,https://www.youtube.com/embed/pfWV8NkotvU
+S21E10,21,10,1990-11-07,Blue Winter,27,https://www.twoinchbrush.com/images/painting27.png,Blue Winter,https://www.youtube.com/embed/liR0gS0sZY0
+S21E11,21,11,1990-11-14,Desert Glow,28,https://www.twoinchbrush.com/images/painting28.png,Desert Glow,https://www.youtube.com/embed/QyncJfL_HmU
+S21E12,21,12,1990-11-21,Lone Mountain,29,https://www.twoinchbrush.com/images/painting29.png,Lone Mountain,https://www.youtube.com/embed/NJbzIftLLmU
+S21E13,21,13,1990-11-28,Florida's Glory,30,https://www.twoinchbrush.com/images/painting30.png,Florida's Glory,https://www.youtube.com/embed/HQC5sPN9Xhc
+S22E01,22,1,1991-01-01,Autumn Images,14,https://www.twoinchbrush.com/images/painting14.png,Autumn Images,https://www.youtube.com/embed/HMx34Am6RFg
+S22E02,22,2,1991-01-08,Hint of Springtime,15,https://www.twoinchbrush.com/images/painting15.png,Hint of Springtime,https://www.youtube.com/embed/C-OSaHvt8ms
+S22E03,22,3,1991-01-15,Around the Bend,16,https://www.twoinchbrush.com/images/painting16.png,Around the Bend,https://www.youtube.com/embed/Kl5X3icOVvw
+S22E04,22,4,1991-01-22,Countryside Oval,4,https://www.twoinchbrush.com/images/painting4.png,Countryside Oval,https://www.youtube.com/embed/hdNH5axK4u0
+S22E05,22,5,1991-01-29,Russet Winter,5,https://www.twoinchbrush.com/images/painting5.png,Russet Winter,https://www.youtube.com/embed/aE4nID1p-t0
+S22E06,22,6,1991-02-05,Purple Haze,6,https://www.twoinchbrush.com/images/painting6.png,Purple Haze,https://www.youtube.com/embed/ZoJ2tcXWb7g
+S22E07,22,7,1991-02-12,Dimensions,7,https://www.twoinchbrush.com/images/painting7.png,Dimensions,https://www.youtube.com/embed/JUuP75RVZDI
+S22E08,22,8,1991-02-19,Deep Wilderness Home,8,https://www.twoinchbrush.com/images/painting8.png,Deep Wilderness Home,https://www.youtube.com/embed/uZWNvDFfbUk
+S22E09,22,9,1991-02-26,Haven in the Valley,9,https://www.twoinchbrush.com/images/painting9.png,Haven in the Valley,https://www.youtube.com/embed/Qccgam514ds
+S22E10,22,10,1991-03-05,Wintertime Blues,10,https://www.twoinchbrush.com/images/painting10.png,Wintertime Blues,https://www.youtube.com/embed/dbMJVM4iL2Q
+S22E11,22,11,1991-03-12,Pastel Seascape,11,https://www.twoinchbrush.com/images/painting11.png,Pastel Seascape,https://www.youtube.com/embed/K4aud_SpFDQ
+S22E12,22,12,1991-03-19,Country Creek,12,https://www.twoinchbrush.com/images/painting12.png,Country Creek,https://www.youtube.com/embed/JDa6JPcqy88
+S22E13,22,13,1991-03-26,Silent Forest,13,https://www.twoinchbrush.com/images/painting13.png,Silent Forest,https://www.youtube.com/embed/AE1GKcL3NuI
+S23E01,23,1,1991-09-03,Frosty Winter Morn,295,https://www.twoinchbrush.com/images/painting295.png,Frosty Winter Morn,https://www.youtube.com/embed/1-9_enMBquw
+S23E02,23,2,1991-09-10,Forest Edge,296,https://www.twoinchbrush.com/images/painting296.png,Forest Edge,https://www.youtube.com/embed/puGk2iFvvp0
+S23E03,23,3,1991-09-17,Mountain Ridge Lake,297,https://www.twoinchbrush.com/images/painting297.png,Mountain Ridge Lake,https://www.youtube.com/embed/Hq-z06i6HCs
+S23E04,23,4,1991-09-24,Reflections of Gold,298,https://www.twoinchbrush.com/images/painting298.png,Reflections of Gold,https://www.youtube.com/embed/8f9CCnqJ_1Y
+S23E05,23,5,1991-10-01,Quiet Cove,299,https://www.twoinchbrush.com/images/painting299.png,Quiet Cove,https://www.youtube.com/embed/cR9hTbSomx4
+S23E06,23,6,1991-10-08,River's Peace,300,https://www.twoinchbrush.com/images/painting300.png,Rivers Peace,https://www.youtube.com/embed/flCWS9LB4Ks
+S23E07,23,7,1991-10-15,At Dawn's Light,301,https://www.twoinchbrush.com/images/painting301.png,At Dawn's Light,https://www.youtube.com/embed/HFdTxqEznIk
+S23E08,23,8,1991-10-22,Valley Waterfall,302,https://www.twoinchbrush.com/images/painting302.png,Valley Waterfall,https://www.youtube.com/embed/VYcsYzzRae4
+S23E09,23,9,1991-10-29,Toward Day's End,303,https://www.twoinchbrush.com/images/painting303.png,Toward Days End,https://www.youtube.com/embed/cFi_fJl40BA
+S23E10,23,10,1991-11-05,Falls in the Glen,304,https://www.twoinchbrush.com/images/painting304.png,Falls in the Glen,https://www.youtube.com/embed/txAtX-VyVNc
+S23E11,23,11,1991-11-12,Frozen Beauty in Vignette,305,https://www.twoinchbrush.com/images/painting305.png,Frozen Beauty in Vignette,https://www.youtube.com/embed/H15kV1wbDG4
+S23E12,23,12,1991-11-19,Crimson Tide,306,https://www.twoinchbrush.com/images/painting306.png,Crimson Tide,https://www.youtube.com/embed/Y7SDU4i6Fco
+S23E13,23,13,1991-11-26,Winter Bliss,307,https://www.twoinchbrush.com/images/painting307.png,Winter Bliss,https://www.youtube.com/embed/yInYwy6AsDQ
+S24E01,24,1,1992-01-07,Grey Mountain,308,https://www.twoinchbrush.com/images/painting308.png,Gray Mountain,https://www.youtube.com/embed/4XxClvPZ1RE
+S24E02,24,2,1992-01-14,Wayside Pond,309,https://www.twoinchbrush.com/images/painting309.png,Wayside Pond,https://www.youtube.com/embed/FPW2FwK4IOo
+S24E03,24,3,1992-01-21,Teton Winter,310,https://www.twoinchbrush.com/images/painting310.png,Teton Winter,https://www.youtube.com/embed/I4h6TC4CPJY
+S24E04,24,4,1992-01-28,Little Home in the Meadow,311,https://www.twoinchbrush.com/images/painting311.png,Little Home in the Meadow,https://www.youtube.com/embed/nU1zV93N-kI
+S24E05,24,5,1992-02-04,Pretty Autumn Day,312,https://www.twoinchbrush.com/images/painting312.png,A Pretty Autumn Day,https://www.youtube.com/embed/HWedDS3p7XI
+S24E06,24,6,1992-02-11,Mirrored Images,313,https://www.twoinchbrush.com/images/painting313.png,Mirrored Images,https://www.youtube.com/embed/i29frkR1T98
+S24E07,24,7,1992-02-18,Back-Country Path,314,https://www.twoinchbrush.com/images/painting314.png,Back-Country Path,https://www.youtube.com/embed/2iNMoQB1Pe8
+S24E08,24,8,1992-02-25,Graceful Waterfall,315,https://www.twoinchbrush.com/images/painting315.png,Graceful Waterfall,https://www.youtube.com/embed/fBh1nA4pMDY
+S24E09,24,9,1992-03-03,Icy Lake,316,https://www.twoinchbrush.com/images/painting316.png,Icy Lake,https://www.youtube.com/embed/AmBDmgta3l4
+S24E10,24,10,1992-03-10,Rowboat on the Beach,317,https://www.twoinchbrush.com/images/painting317.png,Rowboat on the Beach,https://www.youtube.com/embed/hfvhXOvg43w
+S24E11,24,11,1992-03-17,Portrait of Winter,318,https://www.twoinchbrush.com/images/painting318.png,Portrait of Winter,https://www.youtube.com/embed/JLnIUGOupOA
+S24E12,24,12,1992-03-24,Footbridge,319,https://www.twoinchbrush.com/images/painting319.png,The Footbridge,https://www.youtube.com/embed/RqtDliGeyTg
+S24E13,24,13,1992-03-31,Snowbound Cabin,320,https://www.twoinchbrush.com/images/painting320.png,Snowbound Cabin,https://www.youtube.com/embed/obSLZWXmDak
+S25E01,25,1,1992-08-25,Hide-a-Way Cove,321,https://www.twoinchbrush.com/images/painting321.png,Hide A Way Cove,https://www.youtube.com/embed/l_HqMYquc08
+S25E02,25,2,1992-09-01,Enchanted Falls Oval,322,https://www.twoinchbrush.com/images/painting322.png,Enchanted Falls Oval,https://www.youtube.com/embed/HklPkQ0lSKA
+S25E03,25,3,1992-09-08,Not Quite Spring,323,https://www.twoinchbrush.com/images/painting323.png,Not Quite Spring,https://www.youtube.com/embed/N_u6x7LeyTM
+S25E04,25,4,1992-09-15,Splashes of Autumn,324,https://www.twoinchbrush.com/images/painting324.png,Splashes of Autumn,https://www.youtube.com/embed/YcbaMqq_X8s
+S25E05,25,5,1992-09-22,Summer in the Mountains,325,https://www.twoinchbrush.com/images/painting325.png,Summer in the Mountain,https://www.youtube.com/embed/gmCXgS38NDc
+S25E06,25,6,1992-09-29,Oriental Falls,326,https://www.twoinchbrush.com/images/painting326.png,Oriental Falls,https://www.youtube.com/embed/v8Znj8bbmCQ
+S25E07,25,7,1992-10-06,Autumn Palette,327,https://www.twoinchbrush.com/images/painting327.png,Autumn Palette,https://www.youtube.com/embed/HWrvW-NgaOY
+S25E08,25,8,1992-10-13,Cypress Swamp,328,https://www.twoinchbrush.com/images/painting328.png,Cypress Swamp,https://www.youtube.com/embed/FdIUHudQABI
+S25E09,25,9,1992-10-20,Downstream View,329,https://www.twoinchbrush.com/images/painting329.png,Downstream View,https://www.youtube.com/embed/KsDPg5HZYNw
+S25E10,25,10,1992-10-27,Just Before the Storm,330,https://www.twoinchbrush.com/images/painting330.png,Just Before the Storm,https://www.youtube.com/embed/Rh-jKrMrmOA
+S25E11,25,11,1992-11-03,Fisherman's Paradise,331,https://www.twoinchbrush.com/images/painting331.png,Fisherman's Paradise,https://www.youtube.com/embed/uJLK85uU5mA
+S25E12,25,12,1992-11-10,Desert Hues,332,https://www.twoinchbrush.com/images/painting332.png,Desert Hues,https://www.youtube.com/embed/UUNNXGVNTuI
+S25E13,25,13,1992-11-17,The Property Line,333,https://www.twoinchbrush.com/images/painting333.png,The Property Line,https://www.youtube.com/embed/ivesI3rU7dU
+S26E01,26,1,1992-12-01,In the Stillness of Morning,334,https://www.twoinchbrush.com/images/painting334.png,In the Stillness of Morning,https://www.youtube.com/embed/5rfGa1_iJpw
+S26E02,26,2,1992-12-08,Delightful Meadow Home,335,https://www.twoinchbrush.com/images/painting335.png,Delightful Meadow Home,https://www.youtube.com/embed/tWoInh2USOs
+S26E03,26,3,1992-12-15,First Snow,336,https://www.twoinchbrush.com/images/painting336.png,First Snow,https://www.youtube.com/embed/raAkJKeo0Sk
+S26E04,26,4,1992-12-22,Lake in the Valley,337,https://www.twoinchbrush.com/images/painting337.png,Lake in the Valley,https://www.youtube.com/embed/KvJmSrErm20
+S26E05,26,5,1992-12-29,A Trace of Spring,338,https://www.twoinchbrush.com/images/painting338.png,A Trace of Spring,https://www.youtube.com/embed/JMPwj3u4ZTA
+S26E06,26,6,1993-01-05,An Arctic Winter Day,339,https://www.twoinchbrush.com/images/painting339.png,An Arctic Winter Day,https://www.youtube.com/embed/9BHWlbjd95c
+S26E07,26,7,1993-01-12,Snow Birch,340,https://www.twoinchbrush.com/images/painting340.png,Snow Birch,https://www.youtube.com/embed/wKeemvioVrM
+S26E08,26,8,1993-01-19,Early Autumn,341,https://www.twoinchbrush.com/images/painting341.png,Early Autumn,https://www.youtube.com/embed/SLQXlFLoqQc
+S26E09,26,9,1993-01-26,Tranquil Wooded Stream,342,https://www.twoinchbrush.com/images/painting342.png,Tranquil Wooded Stream,https://www.youtube.com/embed/lSeRrm5ZK9c
+S26E10,26,10,1993-02-02,Purple Mountain Range,343,https://www.twoinchbrush.com/images/painting343.png,Purple Mountain Range,https://www.youtube.com/embed/nkDA_R-XmqA
+S26E11,26,11,1993-02-09,Storm's a Comin',344,https://www.twoinchbrush.com/images/painting344.png,Storm's A Comin,https://www.youtube.com/embed/EHD9u-lo2wc
+S26E12,26,12,1993-02-16,Sunset Aglow,345,https://www.twoinchbrush.com/images/painting345.png,Sunset Aglow,https://www.youtube.com/embed/gMEZp47VKC0
+S26E13,26,13,1993-02-23,Evening at the Falls,346,https://www.twoinchbrush.com/images/painting346.png,Evening at the Falls,https://www.youtube.com/embed/RulXVcpgpqw
+S27E01,27,1,1993-03-02,Twilight Beauty,347,https://www.twoinchbrush.com/images/painting347.png,Twilight Beauty,https://www.youtube.com/embed/0mJqzzeWyXs
+S27E02,27,2,1993-03-09,Angler's Haven,348,https://www.twoinchbrush.com/images/painting348.png,Angler's Haven,https://www.youtube.com/embed/XlwfcXZ0AIU
+S27E03,27,3,1993-03-16,Rustic Winter Woods,349,https://www.twoinchbrush.com/images/painting349.png,Rustic Winter Woods,https://www.youtube.com/embed/3q8Zi9480lw
+S27E04,27,4,1993-03-23,Wilderness Falls,350,https://www.twoinchbrush.com/images/painting350.png,Wilderness Falls,https://www.youtube.com/embed/gxd0MPX8c6I
+S27E05,27,5,1993-03-30,Winter at the Farm,351,https://www.twoinchbrush.com/images/painting351.png,Winter at the Farm,https://www.youtube.com/embed/LeIVNKnWz7o
+S27E06,27,6,1993-04-06,Daisies at Dawn,352,https://www.twoinchbrush.com/images/painting352.png,Daisies at Dawn,https://www.youtube.com/embed/_kkZcIgocBM
+S27E07,27,7,1993-04-13,A Spectacular View,353,https://www.twoinchbrush.com/images/painting353.png,A Spectacular View,https://www.youtube.com/embed/7R9HcaDT9P4
+S27E08,27,8,1993-04-20,Daybreak,354,https://www.twoinchbrush.com/images/painting354.png,Daybreak,https://www.youtube.com/embed/crWDcTvDmec
+S27E09,27,9,1993-04-27,Island Paradise,355,https://www.twoinchbrush.com/images/painting355.png,Island Paradise,https://www.youtube.com/embed/Cg3XAVhAas0
+S27E10,27,10,1993-05-04,Sunlight in the Shadows,356,https://www.twoinchbrush.com/images/painting356.png,Sunlight in the Shadows,https://www.youtube.com/embed/xgjQ0v2d9mE
+S27E11,27,11,1993-05-11,Splendor of a Snowy Winter,357,https://www.twoinchbrush.com/images/painting357.png,Splendor of a Snowy Winter,https://www.youtube.com/embed/JdXCoxkOdwQ
+S27E12,27,12,1993-05-18,Forest River,358,https://www.twoinchbrush.com/images/painting358.png,Forest River,https://www.youtube.com/embed/wrbGlR22K0Q
+S27E13,27,13,1993-05-20,Golden Glow of Morning,359,https://www.twoinchbrush.com/images/painting359.png,Golden Glow of Morning,https://www.youtube.com/embed/qXElmiqzcI0
+S28E01,28,1,1993-05-25,Fisherman's Trail,360,https://www.twoinchbrush.com/images/painting360.png,Fisherman's Trail,https://www.youtube.com/embed/VnZEpic2UzU
+S28E02,28,2,1993-06-01,A Warm Winter,361,https://www.twoinchbrush.com/images/painting361.png,A Warm Winter,https://www.youtube.com/embed/_TTdw3YnXuo
+S28E03,28,3,1993-06-08,Under Pastel Skies,362,https://www.twoinchbrush.com/images/painting362.png,Under Pastel Skies,https://www.youtube.com/embed/lzODyJS2ZIg
+S28E04,28,4,1993-06-15,Golden Rays of Sunlight,363,https://www.twoinchbrush.com/images/painting363.png,Golden Rays of Sunshine,https://www.youtube.com/embed/zxj3xLDNxo0
+S28E05,28,5,1993-06-22,The Magic of Fall,364,https://www.twoinchbrush.com/images/painting364.png,The Magic of Fall,https://www.youtube.com/embed/bSm3fmEyJ20
+S28E06,28,6,1993-06-29,Glacier Lake,365,https://www.twoinchbrush.com/images/painting365.png,Glacier Lake,https://www.youtube.com/embed/TohG7F8M3Ls
+S28E07,28,7,1993-07-06,The Old Weathered Barn,366,https://www.twoinchbrush.com/images/painting366.png,The Old Weathered Barn,https://www.youtube.com/embed/NYUIIBFj0iQ
+S28E08,28,8,1993-07-13,Deep Forest Falls,367,https://www.twoinchbrush.com/images/painting367.png,Deep Forest Falls,https://www.youtube.com/embed/urHQRbRNuYI
+S28E09,28,9,1993-07-20,Winter's Grace,368,https://www.twoinchbrush.com/images/painting368.png,Winter's Grace,https://www.youtube.com/embed/mxJ2On9wyvY
+S28E10,28,10,1993-07-27,Splendor of Autumn,369,https://www.twoinchbrush.com/images/painting369.png,Splendor of Autumn,https://www.youtube.com/embed/hEyR2FDp-00
+S28E11,28,11,1993-08-03,Tranquil Seas,370,https://www.twoinchbrush.com/images/painting370.png,Tranquil Seas,https://www.youtube.com/embed/kN1DP_yqs-A
+S28E12,28,12,1993-08-10,Mountain Serenity,371,https://www.twoinchbrush.com/images/painting371.png,Mountain Serenity,https://www.youtube.com/embed/wc_YVijYjT4
+S28E13,28,13,1993-08-17,Home Before Nightfall,372,https://www.twoinchbrush.com/images/painting372.png,Home Before Nightfall,https://www.youtube.com/embed/22SiIDvyJeM
+S29E01,29,1,1993-08-24,Island in the Wilderness,373,https://www.twoinchbrush.com/images/painting373.png,Island in the Wilderness,https://www.youtube.com/embed/lLWEXRAnQd0
+S29E02,29,2,1993-08-31,Autumn Oval,374,https://www.twoinchbrush.com/images/painting374.png,Autumn Oval,https://www.youtube.com/embed/2XnIdinwot0
+S29E03,29,3,1993-09-07,Seasonal Progression,375,https://www.twoinchbrush.com/images/painting375.png,Seasonal Progression,https://www.youtube.com/embed/T2G5waMfQ-g
+S29E04,29,4,1993-09-14,Light at the Summit,376,https://www.twoinchbrush.com/images/painting376.png,Light at the Summit,https://www.youtube.com/embed/HOdS-G8p1KE
+S29E05,29,5,1993-09-21,Countryside Barn,377,https://www.twoinchbrush.com/images/painting377.png,Countryside Barn,https://www.youtube.com/embed/G7Etn7QMeO4
+S29E06,29,6,1993-09-28,Mountain Lake Falls,378,https://www.twoinchbrush.com/images/painting378.png,Mountain Lake Falls,https://www.youtube.com/embed/dNEp3hoHSDI
+S29E07,29,7,1993-10-05,Cypress Creek,379,https://www.twoinchbrush.com/images/painting379.png,Cypress Creek,https://www.youtube.com/embed/Tnb2cXKKuWM
+S29E08,29,8,1993-10-12,Trapper's Cabin,380,https://www.twoinchbrush.com/images/painting380.png,Trapper's Cabin,https://www.youtube.com/embed/chhCkmp0RG8
+S29E09,29,9,1993-10-19,Storm on the Horizon,381,https://www.twoinchbrush.com/images/painting381.png,Storm on the Horizon,https://www.youtube.com/embed/pA_2paUhBAQ
+S29E10,29,10,1993-10-26,Pot O' Posies,382,https://www.twoinchbrush.com/images/painting382.png,Pot O' Posies,https://www.youtube.com/embed/2zv_S_uVoVQ
+S29E11,29,11,1993-11-02,A Perfect Winter Day,383,https://www.twoinchbrush.com/images/painting383.png,A Perfect Winter Day,https://www.youtube.com/embed/Io4fwhacpEs
+S29E12,29,12,1993-11-09,Aurora's Dance,384,https://www.twoinchbrush.com/images/painting384.png,Aurora's Dance,https://www.youtube.com/embed/iRMsb9Vf7GM
+S29E13,29,13,1993-11-16,Woodsman's Retreat,385,https://www.twoinchbrush.com/images/painting385.png,Woodman's Retreat,https://www.youtube.com/embed/ODrV0dfQcNs
+S30E01,30,1,1993-11-23,Babbling Brook,386,https://www.twoinchbrush.com/images/painting386.png,Babbling Brook,https://www.youtube.com/embed/ZHUdS0wEaKk
+S30E02,30,2,1993-11-30,Woodgrain View,387,https://www.twoinchbrush.com/images/painting387.png,Woodgrain View,https://www.youtube.com/embed/fcx1yUuSf3o
+S30E03,30,3,1993-12-07,Winter's Peace,388,https://www.twoinchbrush.com/images/painting388.png,Winter's Peace,https://www.youtube.com/embed/Xzv3iiWi1Wo
+S30E04,30,4,1993-12-14,Wilderness Trail,389,https://www.twoinchbrush.com/images/painting389.png,Wilderness Trail,https://www.youtube.com/embed/vGsW_6BCukU
+S30E05,30,5,1993-12-21,A Copper Winter,390,https://www.twoinchbrush.com/images/painting390.png,A Copper Winter,https://www.youtube.com/embed/BSjee-ond7w
+S30E06,30,6,1993-12-28,Misty Foothills,391,https://www.twoinchbrush.com/images/painting391.png,Misty Foothills,https://www.youtube.com/embed/LEz4UVL7POE
+S30E07,30,7,1994-01-04,Through the Window,392,https://www.twoinchbrush.com/images/painting392.png,Through the Window,https://www.youtube.com/embed/SrN4A9rVXj0
+S30E08,30,8,1994-01-11,Home in the Valley,393,https://www.twoinchbrush.com/images/painting393.png,Home in the Valley,https://www.youtube.com/embed/enutOy-nsZk
+S30E09,30,9,1994-01-18,Mountains of Grace,394,https://www.twoinchbrush.com/images/painting394.png,Mountains of Grace,https://www.youtube.com/embed/nXlu_Q0sR7c
+S30E10,30,10,1994-01-25,Seaside Harmony,395,https://www.twoinchbrush.com/images/painting395.png,Seaside Harmony,https://www.youtube.com/embed/CY6sGFs209E
+S30E11,30,11,1994-02-01,A Cold Spring Day,396,https://www.twoinchbrush.com/images/painting396.png,A Cold Spring Day,https://www.youtube.com/embed/jq8bIbpW7DQ
+S30E12,30,12,1994-02-08,Evening's Glow,397,https://www.twoinchbrush.com/images/painting397.png,Evening's Glow,https://www.youtube.com/embed/eTEKGOi6SVg
+S30E13,30,13,1994-02-15,Blue Ridge Falls,398,https://www.twoinchbrush.com/images/painting398.png,Blue Ridge Falls,https://www.youtube.com/embed/fz0YjqtHW84
+S31E01,31,1,1994-02-22,Reflections of Calm,399,https://www.twoinchbrush.com/images/painting399.png,Reflections of Calm,https://www.youtube.com/embed/kJFB6rH3z2A
+S31E02,31,2,1994-03-01,Before the Snowfall,400,https://www.twoinchbrush.com/images/painting400.png,Before the Snowfall,https://www.youtube.com/embed/_MdMhQIOL1Y
+S31E03,31,3,1994-03-08,Winding Stream,401,https://www.twoinchbrush.com/images/painting401.png,Winding Stream,https://www.youtube.com/embed/QDwd4pMYyuo
+S31E04,31,4,1994-03-15,Tranquility Cove,402,https://www.twoinchbrush.com/images/painting402.png,Tranquility Cove,https://www.youtube.com/embed/7t6ue0pEcNE
+S31E05,31,5,1994-03-22,Cabin in the Hollow,403,https://www.twoinchbrush.com/images/painting403.png,Cabin in the Hollow,https://www.youtube.com/embed/KYlM2zJnNWY
+S31E06,31,6,1994-03-29,View From Clear Creek,404,https://www.twoinchbrush.com/images/painting404.png,View from Clear Creek,https://www.youtube.com/embed/TLX1bmS8wBE
+S31E07,31,7,1994-04-05,Bridge to Autumn,405,https://www.twoinchbrush.com/images/painting405.png,Bridge to Autumn,https://www.youtube.com/embed/ReENCTH7MYI
+S31E08,31,8,1994-04-12,Trail's End,406,https://www.twoinchbrush.com/images/painting406.png,Trail's End,https://www.youtube.com/embed/XWQrP-WiLgc
+S31E09,31,9,1994-04-19,Evergreen Valley,407,https://www.twoinchbrush.com/images/painting407.png,Evergreen Valley,https://www.youtube.com/embed/mEU0stNfkxI
+S31E10,31,10,1994-04-26,Balmy Beach,408,https://www.twoinchbrush.com/images/painting408.png,Balmy Beach,https://www.youtube.com/embed/kMgd6r6c4vE
+S31E11,31,11,1994-05-03,Lake at the Ridge,409,https://www.twoinchbrush.com/images/painting409.png,Lake at the Ridge,https://www.youtube.com/embed/8QWvzEQ69Kw
+S31E12,31,12,1994-05-10,In the Midst of Winter,410,https://www.twoinchbrush.com/images/painting410.png,In the Midst of Winter,https://www.youtube.com/embed/qx2IsmrCs3c
+S31E13,31,13,1994-05-17,Wilderness Day,411,https://www.twoinchbrush.com/images/painting411.png,Wilderness Day,https://www.youtube.com/embed/nJGCVFn57U8
