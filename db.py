@@ -1,6 +1,8 @@
 from sqlalchemy import create_engine
 from db_schema import Base
+import os
 
-engine = create_engine('sqlite://', echo=True)
-Base.metadata.create_all(engine, checkfirst=True)
+print(f'sqlite://{os.getcwd()}/dev.db')
 
+engine = create_engine(f'sqlite:///{os.getcwd()}/dev.db', echo=False)
+Base.metadata.create_all(bind=engine, checkfirst=True)

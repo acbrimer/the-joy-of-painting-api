@@ -6,10 +6,18 @@ from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
 
 
+class BaseModel:
+
+    def toDict(self):
+        d = {}
+        for column in self.__table__.columns:
+            d[column.name] = str(getattr(self, column.name))
+        return d
+
 # Define dimension tables
 
 
-class Episode(Base):
+class Episode(BaseModel, Base):
     """Episode - an episode of The Joy of Painting"""
 
     __tablename__ = 'episodes'
@@ -20,8 +28,8 @@ class Episode(Base):
     title = Column(String(255), nullable=False)
     painting_title = Column(String(255), nullable=True)
     painting_index = Column(Integer, nullable=False)
-    image_url = Column(String, nullable=True)
-    youtube_url = Column(String, nullable=True)
+    img_src = Column(String, nullable=True)
+    youtube_src = Column(String, nullable=True)
     date = Column(Date, nullable=True)
 
 
