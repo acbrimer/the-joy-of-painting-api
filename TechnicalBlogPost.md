@@ -8,4 +8,34 @@ With these considerations, I wanted to see if it was 1) possible, and 2) practic
 
 ## Project
 
-For my initial test, I used a project I completed for one of my (most fun so-far) Holberton web carriculum in which the task was to build a database and API against data on episodes of The Joy of Painting. 
+For my initial test, I used a project I completed for one of my (most fun so-far) Holberton web carriculum in which the task was to build a database and API against data on episodes of The Joy of Painting ([see here for the GitHub repo](https://github.com/acbrimer/the-joy-of-painting-api)).
+
+Here is the database design I chose for storing the episode data from The Joy of Painting that we were given to work with:
+
+![ER-diagram](https://github.com/acbrimer/the-joy-of-painting-api/blob/main/db_schema.png?raw=true)
+
+After loading the `dev.db` sqlite3 database and ensuring the API was working on my laptop, I simply added the following Dockerfile from Google Cloud Run documentation into my project repository:
+
+```
+# Use the official lightweight Python image.
+# https://hub.docker.com/_/python
+FROM python:3.10-slim
+
+# Allow statements and log messages to immediately appear in the Knative logs
+ENV PYTHONUNBUFFERED True
+
+# Copy local code to the container image.
+ENV APP_HOME /app
+WORKDIR $APP_HOME
+COPY . ./
+
+# Install production dependencies.
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Run the web service on container startup. Here we use the gunicorn
+# webserver, with one worker process and 8 threads.
+# For environments with multiple CPU cores, increase the number of workers
+# to be equal to the cores available.
+# Timeout is set to 0 to disable the timeouts of the workers to allow Cloud Run to handle instance scaling.
+CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 main:app
+```
