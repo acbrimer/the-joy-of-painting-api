@@ -1,0 +1,14 @@
+.gitignore
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+*.html
+*.ipynb
+*.sql
+api.py
+data
+staging
+__pycache__
+.pytest_cache

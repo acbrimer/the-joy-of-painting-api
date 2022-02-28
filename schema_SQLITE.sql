@@ -1,59 +1,49 @@
-
 CREATE TABLE episodes (
-	id INTEGER NOT NULL, 
-	season INTEGER, 
-	title VARCHAR(255) NOT NULL, 
-	youtube_url VARCHAR, 
-	air_date DATE, 
-	PRIMARY KEY (id)
+        id CHAR(6) NOT NULL, 
+        season INTEGER NOT NULL, 
+        episode INTEGER NOT NULL, 
+        title VARCHAR(255) NOT NULL, 
+        painting_title VARCHAR(255), 
+        painting_index INTEGER NOT NULL, 
+        img_src VARCHAR, 
+        youtube_src VARCHAR, 
+        date DATE, 
+        PRIMARY KEY (id)
 )
 
 
 
 CREATE TABLE colors (
-	id INTEGER NOT NULL, 
-	name VARCHAR(255) NOT NULL, 
-	hex VARCHAR(7) NOT NULL, 
-	PRIMARY KEY (id)
+        id CHAR(6) NOT NULL, 
+        name VARCHAR(255) NOT NULL, 
+        hex VARCHAR(7) NOT NULL, 
+        PRIMARY KEY (id)
 )
 
 
 
 CREATE TABLE subjects (
-	id INTEGER NOT NULL, 
-	name VARCHAR(255) NOT NULL, 
-	PRIMARY KEY (id)
-)
-
-
-
-CREATE TABLE paintings (
-	id INTEGER NOT NULL, 
-	episode_id INTEGER, 
-	image_url VARCHAR, 
-	title VARCHAR(255), 
-	PRIMARY KEY (id), 
-	FOREIGN KEY(episode_id) REFERENCES episodes (id)
+        id VARCHAR(100) NOT NULL, 
+        name VARCHAR(100) NOT NULL, 
+        PRIMARY KEY (id)
 )
 
 
 
 CREATE TABLE episode_subjects (
-	episode_id INTEGER NOT NULL, 
-	subject_id INTEGER NOT NULL, 
-	PRIMARY KEY (episode_id, subject_id), 
-	FOREIGN KEY(episode_id) REFERENCES episodes (id), 
-	FOREIGN KEY(subject_id) REFERENCES subjects (id)
+        episode_id CHAR(6) NOT NULL, 
+        subject_id VARCHAR(100) NOT NULL, 
+        PRIMARY KEY (episode_id, subject_id), 
+        FOREIGN KEY(episode_id) REFERENCES episodes (id), 
+        FOREIGN KEY(subject_id) REFERENCES subjects (id)
 )
 
 
 
 CREATE TABLE painting_colors (
-	painting_id INTEGER NOT NULL, 
-	color_id INTEGER NOT NULL, 
-	PRIMARY KEY (painting_id, color_id), 
-	FOREIGN KEY(painting_id) REFERENCES paintings (id), 
-	FOREIGN KEY(color_id) REFERENCES colors (id)
+        episode_id CHAR(6) NOT NULL, 
+        color_id CHAR(6) NOT NULL, 
+        PRIMARY KEY (episode_id, color_id), 
+        FOREIGN KEY(episode_id) REFERENCES episodes (id), 
+        FOREIGN KEY(color_id) REFERENCES colors (id)
 )
-
-
