@@ -14,6 +14,8 @@ Here is the database design I chose for storing the episode data from The Joy of
 
 ![ER-diagram](https://github.com/acbrimer/the-joy-of-painting-api/blob/main/db_schema.png?raw=true)
 
+The Flask API exposes data in the database through a single route that supports a few filter options for returning lists of episodes.
+
 After loading the `dev.db` sqlite3 database and ensuring the API was working on my laptop, I simply added the following Dockerfile from Google Cloud Run documentation into my project repository:
 
 ```
@@ -39,3 +41,20 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Timeout is set to 0 to disable the timeouts of the workers to allow Cloud Run to handle instance scaling.
 CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 main:app
 ```
+
+After adding the Dockerfile and enabling Google Cloud Run on my gcloud project, I was able to deploy by simply running `gcloud run deploy` and following the prompts to select a region and name for the new Cloud Run Service. Note that, although I haven't found any documented explaination, it appears that having the `dev.db` file in a `.gitignore` in the same directory as the Dockerfile prevents gcloud from picking up the database in the deploy.
+
+## Results
+
+After running the deploy command, it took roughly a minute to upload and build the container. At first, I was not getting any response from the database calls once the container deployed but quickly traced this to an error message in the Cloud Run logs caused by creating my initial SqlAlchemy connection on a different thread than the subsequent queries coming through the API. This was easily fixed by adding `{'check_same_thread': False}` as an argument to my `create_engine`:
+
+```
+engine = create_engine(f'sqlite:///{os.getcwd()}/dev.db',
+                       echo=False, connect_args={'check_same_thread': False})
+```
+
+Once I added this argument and redeployed the Cloud Run service, the API was up and running! Logs show that invocation times for the container to process a request in the Flask API, query the `dev.db` file, and return a result, register between 5ms and 50ms, making me hopeful that this could be the solution I was hoping for.
+
+## Next steps
+
+## Test results
